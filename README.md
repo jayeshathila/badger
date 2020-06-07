@@ -11,9 +11,14 @@ Which this repo you will be able to add badges at one go without hassle of ay ma
  - Github Token
  - Python3
  
-## Python Dependencies
+## Dependencies
  - `PyInquirer`
- > pip3 install PyInquirer
+ - `requests`
+
+ > Below command will install above mentioned dependencies:
+
+>$ python3 setup.py install
+
 
 ## Usage
 >$ python3 badger.py
