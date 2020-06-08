@@ -22,3 +22,6 @@ Which this repo you will be able to add badges at one go without hassle of ay ma
 
 ## Usage
 >$ python3 badger.py
+
+## Stats
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jayeshathila.badger)	![code-size](https://img.shields.io/github/languages/code-size/jayeshathila/badger)
