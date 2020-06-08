@@ -17,13 +17,19 @@ Which this repo you will be able to add badges at one go without hassle of ay ma
  - `PyInquirer`
  - `requests`
 
- > Below command will install above mentioned dependencies:
-
->$ python3 setup.py install
-
+ > `make` command will install the dependencies by itself.
 
 ## Usage
->$ python3 badger.py
+```
+$make
+```
+ ![](assets/add_badges.gif)
 
+## Supported badges
+
+As of now this supports:
+ 1. visitors
+ 1. code-size.
+ 
 ## Stats
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jayeshathila.badger)	![code-size](https://img.shields.io/github/languages/code-size/jayeshathila/badger)
