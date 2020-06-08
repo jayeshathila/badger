@@ -11,6 +11,8 @@ Which this repo you will be able to add badges at one go without hassle of ay ma
  - Github Token
  - Python3
  
+ ![](assets/access_token_generator.gif)
+  
 ## Dependencies
  - `PyInquirer`
  - `requests`
